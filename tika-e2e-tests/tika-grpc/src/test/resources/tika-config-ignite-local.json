@@ -31,4 +31,8 @@
       "--add-opens=java.desktop/java.awt.font=ALL-UNNAMED"
     ]
   }
+  },
+  "grpc": {
+    "allowComponentManagement": true
+  }
 }
